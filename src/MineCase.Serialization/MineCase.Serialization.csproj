@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net5.0</TargetFrameworks>
+	  <TargetFramework>net8.0</TargetFramework>
     <Configurations>Debug;Release;Appveyor;TravisCI</Configurations>
     <DebugType>full</DebugType>
     <DebugSymbols>true</DebugSymbols>
